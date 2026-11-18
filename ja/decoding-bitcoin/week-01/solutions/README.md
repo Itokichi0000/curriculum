@@ -1,6 +1,6 @@
 # Week 1 解答例
 
-[Week 1 の概要](../README.md) · [演習](../exercises/README.md) · [シラバス（英語）](../../../../decoding-bitcoin/README.md)
+[Week 1 の概要](../README.md) · [演習](../exercises/README.md) · [シラバス](../../README.md)
 
 これを読む前に、まず自分で問題に取り組んでください。ここにあるのは解答例であり、唯一の正解ではありません。自分の答えが違っていても、根拠を説明できるなら、セッションに持ってきてください。
 

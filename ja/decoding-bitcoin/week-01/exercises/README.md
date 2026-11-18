@@ -1,6 +1,6 @@
 # Week 1 演習
 
-[Week 1 の概要](../README.md) · [解答例](../solutions/README.md) · [シラバス（英語）](../../../../decoding-bitcoin/README.md)
+[Week 1 の概要](../README.md) · [解答例](../solutions/README.md) · [シラバス](../../README.md)
 
 Week 1 はイントロの週なので、最初のセッションまでにやっておくべきことはありません。できれば、セッションのあとに基本演習の 3 つに取り組んでください。ハンズオンラボでは、Week 2 以降で使う regtest ノードをセットアップします。Week 2 までに動く状態にしておきましょう。
 

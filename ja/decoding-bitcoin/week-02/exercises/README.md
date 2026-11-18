@@ -1,6 +1,6 @@
 # Week 2 演習
 
-[Week 2 の概要](../README.md) · [解答例](../solutions/README.md) · [シラバス（英語）](../../../../decoding-bitcoin/README.md)
+[Week 2 の概要](../README.md) · [解答例](../solutions/README.md) · [シラバス](../../README.md)
 
 月曜までに、基本演習の 3 つをやってください。考え方が本当に身につくのはハンズオンラボなので、少なくともステップ 1〜7 には挑戦しましょう。答えは書き留めておきます。グループの前で説明することになるからです。
 

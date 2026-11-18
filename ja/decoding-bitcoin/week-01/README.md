@@ -1,8 +1,8 @@
 # Week 01：オリエンテーションと基礎
 
-[シラバス（英語）](../../../decoding-bitcoin/README.md) · [Week 2 →](../week-02/)
+[シラバス](../README.md) · [Week 2 →](../week-02/)
 
-> [Decoding Bitcoin シラバス（英語）](../../../decoding-bitcoin/README.md#week-1-orientation-and-foundations)の一部です。レッスン本体は The Bitcoin Dev Project の [Decoding Bitcoin](https://bitcoindevs.xyz/decoding)（英語）にあります。このフォルダは、Code Orange がその週のために用意した学習ガイドです。
+> [Decoding Bitcoin シラバス](../README.md#week-1オリエンテーションと基礎)の一部です。レッスン本体は The Bitcoin Dev Project の [Decoding Bitcoin](https://bitcoindevs.xyz/decoding)（英語）にあります。このフォルダは、Code Orange がその週のために用意した学習ガイドです。
 
 > **イントロの週です。** 最初のセッションには、何も準備せずに参加してください。お互いに自己紹介をして、コホートの進め方とダッシュボードの使い方を説明し、今週のトピックを一緒に見ていきます。宿題は Week 2 から始まります。11月23日（月）までに、レッスン、自分の担当問題、演習に取り組みます。
 
@@ -46,5 +46,5 @@ regtest での bitcoin-cli ラボなど、さらに手を動かす課題は [`ex
 |---|---|
 | [`exercises/`](exercises/README.md) | 今週のハンズオン演習 |
 | [`solutions/`](solutions/README.md) | 問題と演習の解答例（まずは自分で解いてみてください） |
-| [`slides/`](slides/slides.md) | セッション用のファシリテータースライド（[スライドの表示方法（英語）](../../../decoding-bitcoin/README.md#presenting-the-slides)） |
+| [`slides/`](slides/slides.md) | セッション用のファシリテータースライド（[スライドの表示方法](../README.md#スライドの表示方法)） |
 | [`notes/`](notes/README.md) | 重要な考え方、よくある勘違い、セッションの進行表、参考資料 |

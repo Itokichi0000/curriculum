@@ -1,6 +1,6 @@
 # Week 02：トランザクションの一生
 
-[← Week 1](../week-01/) · [シラバス（英語）](../../../decoding-bitcoin/README.md) · [Week 3（英語）→](../../../decoding-bitcoin/week-03/)
+[← Week 1](../week-01/) · [シラバス](../README.md) · [Week 3（英語）→](../../../decoding-bitcoin/week-03/)
 
 > [Decoding Bitcoin シラバス（英語）](../../../decoding-bitcoin/README.md#week-2-how-a-transaction-lives)の一部です。レッスン本体は The Bitcoin Dev Project の [Decoding Bitcoin](https://bitcoindevs.xyz/decoding)（英語）にあります。このフォルダは、Code Orange がその週のために用意した学習ガイドです。
 
@@ -44,5 +44,5 @@ regtest での bitcoin-cli ラボなど、さらに手を動かす課題は [`ex
 |---|---|
 | [`exercises/`](exercises/README.md) | 今週のハンズオン演習 |
 | [`solutions/`](solutions/README.md) | 問題と演習の解答例（まずは自分で解いてみてください） |
-| [`slides/`](slides/slides.md) | セッション用のファシリテータースライド（[スライドの表示方法（英語）](../../../decoding-bitcoin/README.md#presenting-the-slides)） |
+| [`slides/`](slides/slides.md) | セッション用のファシリテータースライド（[スライドの表示方法](../README.md#スライドの表示方法)） |
 | [`notes/`](notes/README.md) | 重要な考え方、よくある勘違い、セッションの進行表、参考資料 |

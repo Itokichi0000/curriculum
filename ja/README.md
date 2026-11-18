@@ -10,7 +10,8 @@
 |---|---|---|
 | Decoding Bitcoin | [Week 1：オリエンテーションと基礎](decoding-bitcoin/week-01/README.md) | 翻訳済み |
 | Decoding Bitcoin | [Week 2：トランザクションの一生](decoding-bitcoin/week-02/README.md) | 翻訳済み |
-| Decoding Bitcoin | シラバス（[英語](../decoding-bitcoin/README.md)）、Week 3〜10 | 未着手 |
+| Decoding Bitcoin | [シラバス](decoding-bitcoin/README.md)（冒頭、スケジュール、Week 1 の節、運営ガイド） | 翻訳済み。Week 2〜10 の節は英語版へリンク |
+| Decoding Bitcoin | Week 3〜10 | 未着手 |
 | その他のプログラム | Bitcoin Dojo、rawBit、Sovereign Bitcoiner、Privacy Track、Nostr ワークショップなど | 未着手 |
 
 まだ訳していないページへのリンクは、原文（英語）に飛ぶようにしてあります。
